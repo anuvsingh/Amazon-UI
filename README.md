@@ -1,4 +1,4 @@
-# Amazon UI Clone - Frontend Practice
+# Amazon UI Clone
 
 This project is a clone of the Amazon website created for practice. It demonstrates the process of analyzing, replicating, and enhancing a website using HTML and CSS.
 
